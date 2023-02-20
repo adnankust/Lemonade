@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lemonade</string>
+    <string name="lemon_select">Select a lemon</string>
+    <string name="lemon_tree_content_description">This is a lemon tree</string>
+    <string name="lemon_squeeze">Squeeze it</string>
+    <string name="lemon_content_description">Case two description</string>
+    <string name="lemon_drink">Have a drink</string>
+    <string name="lemonade_content_description">This is description for screen number threee</string>
+    <string name="lemon_empty_glass">Empty glass, get more drink</string>
+    <string name="empty_glass_content_description">Empty glass</string>
+</resources>
